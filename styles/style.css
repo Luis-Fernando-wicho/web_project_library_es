@@ -121,9 +121,9 @@
   max-width: 760px;
   margin: auto;
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: flex-start;
   margin-top: 68px;
-  margin-bottom: 40px;
+  margin-bottom: auto;
   gap: 40px;
   list-style-type: none;
   padding-left: 0;
