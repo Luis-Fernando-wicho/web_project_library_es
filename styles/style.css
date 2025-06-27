@@ -402,7 +402,7 @@
   color: #fff;
   display: flex;
   align-items: center;
-  column-gap: auto;
+  column-gap: normal;
 }
 
 .footer__social-icon {
