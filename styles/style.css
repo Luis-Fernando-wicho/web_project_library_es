@@ -331,7 +331,6 @@
   flex-direction: column;
   width: 220px;
   justify-content: center;
-  flex-basis: auto;
 }
 
 .step__title {
@@ -357,7 +356,6 @@
   padding: 60px 80px;
   display: flex;
   flex-direction: column;
-  color: #000000;
 }
 
 .footer__columns {
@@ -402,7 +400,6 @@
   color: #fff;
   display: flex;
   align-items: center;
-  column-gap: normal;
 }
 
 .footer__social-icon {
