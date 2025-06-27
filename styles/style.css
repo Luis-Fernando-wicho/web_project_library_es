@@ -331,6 +331,7 @@
   flex-direction: column;
   width: 220px;
   justify-content: center;
+  flex-basis: auto;
 }
 
 .step__title {
@@ -356,6 +357,7 @@
   padding: 60px 80px;
   display: flex;
   flex-direction: column;
+  color: #1f1f1f;
 }
 
 .footer__columns {
@@ -380,8 +382,7 @@
 
 .footer__column-heading {
   color: #ffffff;
-  margin: 0%;
-  padding-bottom: 16px;
+  margin-bottom: 16px;
 }
 
 .footer__list {
@@ -401,7 +402,7 @@
   color: #fff;
   display: flex;
   align-items: center;
-  column-gap: normal;
+  column-gap: 0;
 }
 
 .footer__social-icon {
